@@ -1,15 +1,14 @@
 # Hey, It's Franco Longstaff #!
 
-
 **IT Systems Administrator | DevOps | Support Expert**  
-
 *DevOps-focused IT Systems Administrator with 8+ years transforming infrastructure operations across government, corporate, and community sectors. Currently moving back to Europe after being based in Perth for 18 months.*
 
 > I thrive in those "everything's on fire" moments where others panic.  
 > Every problem has a solution – sometimes you just need to look at it from a different angle.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=flongstaff&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=flongstaff&theme=radical&hide_border=true)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flongstaff&layout=compact&theme=radical&hide_border=true)  
+![Stats](https://github-readme-stats.vercel.app/api?username=flongstaff&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)       ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flongstaff&layout=compact&theme=radical&hide_border=true)      
+  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=flongstaff&theme=radical&hide_border=true&background=0d1117&stroke=7c8891&ring=f0f6fc&fire=0078d4&currStreakNum=f0f6fc&sideNums=7c8891&currStreakLabel=f0f6fc&sideLabels=7c8891&dates=7c8891)
+
 
 
 ## 🛠️ Core Skills
