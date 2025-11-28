@@ -1,8 +1,6 @@
 
 <div align="center">
 
-# Hey, It's Franco Longstaff #!
-
 **IT Systems Administrator | DevOps | Support Expert**  
 *DevOps-focused IT Systems Administrator with 8+ years transforming infrastructure operations across government, corporate, and community sectors. Currently moving back to Europe after being based in Perth for 18 months.*
 
