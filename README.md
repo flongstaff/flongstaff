@@ -17,8 +17,6 @@
 
 </div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flongstaff&layout=compact&theme=radical&hide_border=true)  ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=flongstaff&theme=radical&hide_border=true&background=0d1117&stroke=7c8891&ring=f0f6fc&fire=0078d4&currStreakNum=f0f6fc&sideNums=7c8891&currStreakLabel=f0f6fc&sideLabels=7c8891&dates=7c8891)
-
 
 
 ## 🛠️ Core Skills
