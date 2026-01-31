@@ -44,11 +44,6 @@
 | **Systems** | System Administration – Keeping servers alive longer. |
 
 
-## 📚 Education
-**Australian Diploma of Information Technology (ICT50220)**  
-*Completed through Recognition of Prior Learning – Focused on DevOps, cloud infrastructure, and systems automation.*
-
-
 ## 🔗 Hit Me Up
 Let's build something scalable together!
 
