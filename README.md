@@ -2,7 +2,7 @@
 <div align="center">
 
 **IT Systems Administrator | DevOps | Support Expert**  
-*DevOps-focused IT Systems Administrator with 8+ years transforming infrastructure operations across government, corporate, and community sectors. Currently moving back to Europe after being based in Perth for 18 months.*
+*DevOps-focused IT Systems Administrator with 8+ years transforming infrastructure operations across government, corporate, and community sectors.*
 
 > I thrive in those "everything's on fire" moments where others panic.  
 > Every problem has a solution – sometimes you just need to look at it from a different angle.
