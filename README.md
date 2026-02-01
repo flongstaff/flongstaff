@@ -48,7 +48,7 @@
 Let's build something scalable together!
 
 
-📧 **Email**: [franco.longstaff@gmail.com](mailto:franco.longstaff@gmail.com) *(Real biz pls)*  
+📧 **Email**: [hello@flong.dev](mailto:hello@flong.dev) *(Real biz pls)*  
 
 <a href="https://www.linkedin.com/in/franco-longstaff/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a>  
 
