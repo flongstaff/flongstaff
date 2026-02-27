@@ -23,7 +23,6 @@
 
 <div align="center">
 <img src="https://img.shields.io/badge/-MongoDB-05122A?style=for-the-badge&color=4169e1">
-<img src="https://img.shields.io/badge/-SQLite-05122A?style=for-the-badge&color=4169e1">
 <img src="https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&color=4169e1">
 <img src="https://img.shields.io/badge/-SysAdmin-05122A?style=for-the-badge&color=4169e1">
 <img src="https://img.shields.io/badge/-Proxmox-05122A?style=for-the-badge&color=9370db">
